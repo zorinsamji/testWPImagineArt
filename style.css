@@ -1,0 +1,29 @@
+/*
+Theme Name:  TriCity Open Air
+Description: Child theme of Twenty Thirteen used for Open Air 2015
+Author:      TriCitySamora Team
+Version:     0.1
+Template:    twentythirteen
+*/
+
+@import url('css/about.css');
+@import url('css/base.css');
+@import url('css/contact.css');
+@import url('css/engage.css');
+@import url('css/footer.css');
+@import url('css/form.css');
+@import url('css/googlecal.css');
+@import url('css/happenings.css');
+@import url('css/header.css');
+@import url('css/images.css');
+@import url('css/mission.css');
+@import url('css/navigation.css');
+@import url('css/shoppingcart.css');
+@import url('css/sidebar.css');
+
+.entry-author-link,
+.entry-permalink,
+.entry-date,
+.entry-meta {
+	display: none;
+}

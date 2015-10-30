@@ -1,0 +1,14 @@
+.category-artists figure,
+.category-happenings figure,
+.category-mission figure {
+    float: left;
+    margin-right: 10px;
+    width: 150px;
+}
+
+.category-donors figure,
+.category-volunteers figure {
+    float: left;
+    margin-left: 10px;
+    width: 100px;
+}
