@@ -1,0 +1,13 @@
+.wpcf7-form p {
+    line-height: 1;
+    margin-bottom: 1.5em;
+}
+.wpcf7-form input[type="text"],
+.wpcf7-form input[type="email"],
+.wpcf7-form textarea {
+    width: 100%;
+}
+
+.wpcf7-list-item label {
+    display: inline-block;
+}
